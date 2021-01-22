@@ -9,21 +9,27 @@ Afrer looking and do the work for unit 1 this unit is just showing me how to wor
  3. Hardware: somethign you can touch for example keyboards, disk drives, and usbs.
  4. Procese: the steps tooken to get where they are at.
  5. Software: it tells that hardware what to do.
- 
 
-##GitHub  
+
+
+###### Cloud Computing
+Cloud Computing gives people that have smart devices data. Like cell phone providers. 
+
+
+
+
+
+## GitHub  
    Client-Server Architecture  
    Cloud Computing
-
-# Con
 
 
 
 #### Conclusion 
+  At first when I was doing this assim I was lossing my mind making me rethink if i want to do this but after looking back and rereadign a few time im excited to contune on adn see what eles i can learn. I want to learn more about making websites like kinda like this . once i learn how to make my own website i plane tpo make myt own platform to seel sneaker and cloth and anything eles that I likr to collect.
 
 
 
 
 
 
-teachloys that I could be working with. For example  it talkds about smartphones and 
